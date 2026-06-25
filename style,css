@@ -64,4 +64,6 @@ body {
         .botoes (
             display: flex;
     }
-    
+     .botao:first-child { 
+        
+     }
